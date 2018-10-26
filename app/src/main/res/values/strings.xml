@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMSReader</string>
+    <string name="tv_raw_string">Dear Customer, Your data pack is going to expire in 2 days</string>
+    <string name="txt_idea">IDEA</string>
+    <string name="tv_dummy_time">10 min ago</string>
+    <string name="sms_broadcast_filter">sms_receive</string>
+</resources>
